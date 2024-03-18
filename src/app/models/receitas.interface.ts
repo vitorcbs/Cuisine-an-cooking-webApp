@@ -1,0 +1,3 @@
+interface receitasResponse {
+  results: any[]
+}
